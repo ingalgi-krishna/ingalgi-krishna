@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Windows OS Clone Web App**
 
-- 🌱 I’m currently learning **ReactJS, VueJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
