@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishna Ingalgi</h1>
-<h3 align="center">A passionate frontend developer and soon to be Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Windows OS Clone Web App**
+- 🔭 I’m currently working on **MERN Blogging Application**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
