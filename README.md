@@ -9,7 +9,7 @@
 📦Currently developing **Dunefox**, an AI-based communication suite, and other SaaS products under Sucetas.  
 🛠 Skilled in deploying scalable cloud-based applications, microservice architectures, Full-stack applications and maintaining agile product pipelines.  
 🎯 Entrepreneur with a focus on **automation**, **user-centric design**, and **tech-driven strategy**.  
-📫 Contact: **krishnaingalgi10@gmail.com** | [Portfolio](https://ingalgi-krishna.github.io/portfolio_website)
+📫 Contact: **krishnaingalgi10@gmail.com** | [Portfolio](https://krishnaingalgi.in)
 
 ---
 
