@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna Basalingappa Ingalgi</h1>
+<h1 align="center">Hi 👋, I'm Krishna Ingalgi</h1>
 <h3 align="center">COO at Sucetas Technologies | Full Stack Developer | Business Strategist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingalgi-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="ingalgi-krishna" /> </p>
