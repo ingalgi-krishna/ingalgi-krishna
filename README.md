@@ -5,8 +5,8 @@
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-dark.svg?v=6">
-    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-light.svg?v=6" alt="Building AI you forget is AI.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-dark.svg?v=7">
+    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-light.svg?v=7" alt="Founder and COO at Sucetas Technologies. Building Dunefox.">
   </picture>
   <br>
   <a href="https://krishnaingalgi.vercel.app"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-portfolio.svg?v=5" alt="Portfolio: krishnaingalgi.vercel.app"></a>
