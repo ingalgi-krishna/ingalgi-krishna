@@ -1,20 +1,19 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-dark.svg?v=3">
-    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-light.svg?v=3" alt="Krishna Ingalgi">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-dark.svg?v=5">
+    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-light.svg?v=5" alt="Krishna Ingalgi">
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-dark.svg?v=4">
-    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-light.svg?v=4" alt="Building AI you forget is AI.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-dark.svg?v=5">
+    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-light.svg?v=5" alt="Building AI you forget is AI.">
   </picture>
   <br>
-  <a href="https://krishnaingalgi.vercel.app"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-portfolio.svg?v=3" alt="Portfolio: krishnaingalgi.vercel.app"></a>
-  <a href="mailto:krishna@sucetastech.com"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-email.svg?v=3" alt="Email: krishna@sucetastech.com"></a>
-  <br>
-  <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-linkedin.svg?v=3" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-instagram.svg?v=3" alt="Instagram"></a>
-  <a href="https://x.com/krishna_ingalgi"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x.svg?v=3" alt="X"></a>
+  <a href="https://krishnaingalgi.vercel.app"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-portfolio.svg?v=5" alt="Portfolio: krishnaingalgi.vercel.app"></a>
+  <a href="mailto:krishna@sucetastech.com"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-email.svg?v=5" alt="Email: krishna@sucetastech.com"></a>
+  <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-linkedin.svg?v=5" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-instagram.svg?v=5" alt="Instagram"></a>
+  <a href="https://x.com/krishna_ingalgi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x-dark.svg?v=5"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x-light.svg?v=5" alt="X"></picture></a>
 </p>
 
 ---
@@ -196,15 +195,15 @@ Alongside the products, our engineering team ships systems for clients under NDA
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ingalgi-krishna&hide_border=true&theme=github-dark&ring=0D9488&fire=0D9488&currStreakLabel=0D9488">
-    <img src="https://streak-stats.demolab.com?user=ingalgi-krishna&hide_border=true&theme=default&ring=0D9488&fire=0D9488&currStreakLabel=0D9488" alt="Krishna Ingalgi GitHub contribution streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ingalgi-krishna&hide_border=true&theme=github-dark&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA">
+    <img src="https://streak-stats.demolab.com?user=ingalgi-krishna&hide_border=true&theme=default&ring=1D4ED8&fire=1D4ED8&currStreakLabel=1D4ED8" alt="Krishna Ingalgi GitHub contribution streak">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ingalgi-krishna&theme=github-compact&hide_border=true&color=0D9488&line=0D9488&point=111827&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ingalgi-krishna&theme=github-light&hide_border=true&color=0D9488&line=0D9488&point=111827&area=true" alt="Krishna Ingalgi contribution graph over time">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ingalgi-krishna&theme=github-compact&hide_border=true&color=60A5FA&line=60A5FA&point=F1F5F9&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ingalgi-krishna&theme=github-light&hide_border=true&color=1D4ED8&line=1D4ED8&point=0F172A&area=true" alt="Krishna Ingalgi contribution graph over time">
   </picture>
 </p>
 
