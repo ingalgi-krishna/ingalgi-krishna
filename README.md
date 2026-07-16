@@ -1,16 +1,16 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-dark.svg?v=2">
-    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-light.svg?v=2" alt="Krishna Ingalgi">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-dark.svg?v=3">
+    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-light.svg?v=3" alt="Krishna Ingalgi">
   </picture>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=19&pause=1500&color=0D9488&center=true&vCenter=true&width=740&height=34&lines=Founder+%26+COO+at+Sucetas+Technologies;Dunefox%2C+Dunefox+Voice%2C+Services;Building+the+products+and+the+team+that+ships+them" alt="Founder and COO at Sucetas Technologies">
   <br>
-  <a href="https://krishnaingalgi.vercel.app"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-portfolio.svg?v=2" alt="Portfolio: krishnaingalgi.vercel.app"></a>
-  <a href="mailto:krishna@sucetastech.com"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-email.svg?v=2" alt="Email: krishna@sucetastech.com"></a>
-  <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-linkedin.svg?v=2" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-instagram.svg?v=2" alt="Instagram"></a>
-  <a href="https://x.com/krishna_ingalgi"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x.svg?v=2" alt="X"></a>
+  <a href="https://krishnaingalgi.vercel.app"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-portfolio.svg?v=3" alt="Portfolio: krishnaingalgi.vercel.app"></a>
+  <a href="mailto:krishna@sucetastech.com"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-email.svg?v=3" alt="Email: krishna@sucetastech.com"></a>
+  <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-linkedin.svg?v=3" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-instagram.svg?v=3" alt="Instagram"></a>
+  <a href="https://x.com/krishna_ingalgi"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x.svg?v=3" alt="X"></a>
 </p>
 
 ---
