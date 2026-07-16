@@ -8,6 +8,7 @@
   <br>
   <a href="https://krishnaingalgi.vercel.app"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-portfolio.svg?v=3" alt="Portfolio: krishnaingalgi.vercel.app"></a>
   <a href="mailto:krishna@sucetastech.com"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-email.svg?v=3" alt="Email: krishna@sucetastech.com"></a>
+  <br>
   <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-linkedin.svg?v=3" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-instagram.svg?v=3" alt="Instagram"></a>
   <a href="https://x.com/krishna_ingalgi"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x.svg?v=3" alt="X"></a>
