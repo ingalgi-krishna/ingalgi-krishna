@@ -1,19 +1,19 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-dark.svg?v=8">
-    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-light.svg?v=8" alt="Krishna Ingalgi">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-dark.svg?v=9">
+    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/name-light.svg?v=9" alt="Krishna Ingalgi">
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-dark.svg?v=8">
-    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-light.svg?v=8" alt="Founder and COO at Sucetas Technologies. Building Dunefox.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-dark.svg?v=9">
+    <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-light.svg?v=9" alt="Founder and COO at Sucetas Technologies. Building Dunefox.">
   </picture>
   <br>
-  <a href="https://krishnaingalgi.vercel.app"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-portfolio.svg?v=8" alt="Portfolio: krishnaingalgi.vercel.app"></a>
-  <a href="mailto:krishna@sucetastech.com"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-email.svg?v=8" alt="Email: krishna@sucetastech.com"></a>
-  <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-linkedin.svg?v=8" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-instagram.svg?v=8" alt="Instagram"></a>
-  <a href="https://x.com/krishna_ingalgi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x-dark.svg?v=8"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x-light.svg?v=8"></picture></a>
+  <a href="https://krishnaingalgi.vercel.app"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-portfolio.svg?v=9" alt="Portfolio: krishnaingalgi.vercel.app"></a>
+  <a href="mailto:krishna@sucetastech.com"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-email.svg?v=9" alt="Email: krishna@sucetastech.com"></a>
+  <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-linkedin.svg?v=9" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-instagram.svg?v=9" alt="Instagram"></a>
+  <a href="https://x.com/krishna_ingalgi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x-dark.svg?v=9"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x-light.svg?v=9" alt="X"></picture></a>
 </p>
 
 ---
@@ -154,6 +154,35 @@ Alongside the products, our engineering team ships systems for clients under NDA
 </td>
 </tr>
 </table>
+
+---
+
+## From LinkedIn
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.linkedin.com/posts/krishnaingalgi_dunefox-saasproduct-sucetastechnologies-ugcPost-7444018241636786176-kZ_z/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/post-saas.png?v=9" alt="Dunefox wins the £5,000 pitching prize at Coventry University" width="300"></a>
+<p><b><a href="https://www.linkedin.com/posts/krishnaingalgi_dunefox-saasproduct-sucetastechnologies-ugcPost-7444018241636786176-kZ_z/">Dunefox product relaunch</a></b></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.linkedin.com/posts/krishnaingalgi_dunefox-dunefoxio-sucetastechnologies-share-7446647009656233985-rjKY/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/post-dunefox.png?v=9" alt="Dunefox automates up to 90% of customer conversations" width="300"></a>
+<p><b><a href="https://www.linkedin.com/posts/krishnaingalgi_dunefox-dunefoxio-sucetastechnologies-share-7446647009656233985-rjKY/">Automating 90% of customer conversations</a></b></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.linkedin.com/posts/krishnaingalgi_sucetastechnologies-foundersstory-startupindia-ugcPost-7444833266865680384-Ynck/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/post-founder.png?v=9" alt="Founder's story post" width="300"></a>
+<p><b><a href="https://www.linkedin.com/posts/krishnaingalgi_sucetastechnologies-foundersstory-startupindia-ugcPost-7444833266865680384-Ynck/">The founder's story</a></b></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.linkedin.com/posts/krishnaingalgi_startuplife-startupindia-sucetastechnologies-ugcPost-7441902503958454272-BaxA/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/post-startuplife.png?v=9" alt="Startup life post" width="300"></a>
+<p><b><a href="https://www.linkedin.com/posts/krishnaingalgi_startuplife-startupindia-sucetastechnologies-ugcPost-7441902503958454272-BaxA/">Startup life</a></b></p>
+</td>
+</tr>
+</table>
+
+<p><a href="https://www.linkedin.com/in/krishnaingalgi/">More on LinkedIn</a></p>
 
 ---
 
