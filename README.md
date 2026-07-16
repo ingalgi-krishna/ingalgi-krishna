@@ -13,7 +13,7 @@
   <a href="mailto:krishna@sucetastech.com"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-email.svg?v=9" alt="Email: krishna@sucetastech.com"></a>
   <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-linkedin.svg?v=9" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-instagram.svg?v=9" alt="Instagram"></a>
-  <a href="https://x.com/krishna_ingalgi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x-dark.svg?v=9"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x-light.svg?v=9" alt="X"></picture></a>
+  <a href="https://x.com/krishna_ingalgi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x-dark.svg?v=9"></picture></a>
 </p>
 
 ---
