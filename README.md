@@ -9,11 +9,11 @@
     <img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/tagline-light.svg?v=9" alt="Founder and COO at Sucetas Technologies. Building Dunefox.">
   </picture>
   <br>
-  <a href="https://krishnaingalgi.vercel.app"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-portfolio.svg?v=9" alt="Portfolio: krishnaingalgi.vercel.app"></a>
-  <a href="mailto:krishna@sucetastech.com"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-email.svg?v=9" alt="Email: krishna@sucetastech.com"></a>
-  <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-linkedin.svg?v=9" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-instagram.svg?v=9" alt="Instagram"></a>
-  <a href="https://x.com/krishna_ingalgi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x-dark.svg?v=9"><img src="https://raw.githubusercontent.com/ingalgi-krishna/ingalgi-krishna/main/assets/btn-x-light.svg?v=9" alt="X"></picture></a>
+  <a href="https://krishnaingalgi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/krishna_ingalgi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:krishna@sucetastech.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -278,11 +278,11 @@ Reach me at **krishna@sucetastech.com**.
 ---
 
 <p align="center">
-  <a href="https://krishnaingalgi.vercel.app"><img src="https://cdn.simpleicons.org/vercel/_/ffffff" width="32" height="32" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://cdn.simpleicons.org/linkedin" width="32" height="32" alt="LinkedIn"></a>
-  <a href="https://x.com/krishna_ingalgi"><img src="https://cdn.simpleicons.org/x/_/ffffff" width="32" height="32" alt="X"></a>
-  <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://cdn.simpleicons.org/instagram" width="32" height="32" alt="Instagram"></a>
-  <a href="mailto:krishna@sucetastech.com"><img src="https://cdn.simpleicons.org/gmail" width="32" height="32" alt="Email"></a>
+  <a href="https://krishnaingalgi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/krishnaingalgi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/krishna_ingalgi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/krishna_ingalgi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:krishna@sucetastech.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
